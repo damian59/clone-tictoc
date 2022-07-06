@@ -1,0 +1,17 @@
+.video {
+    width: 100%;
+    height: 100%;
+}
+.player {
+    width: 62px;
+    height: 62px;
+    background-color: transparent;
+    border: 0;
+    background-image: url("assets/playTikTok.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: absolute;
+    inset: 0;
+    margin: auto;
+}
